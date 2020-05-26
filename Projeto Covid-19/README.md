@@ -1,12 +1,12 @@
 # Projeto Covid-19
 ## Objetivos:
 
-# Maps: Impacto da doença no US
+###### Maps: Impacto da doença no US
 -Casos confirmados por estado
 -Mortes por estado
 -Recuparados
 
-# Stats: Impacto na economia nos US
+###### Stats: Impacto na economia nos US
 - taxa de desemprego por indústria
 - pedidos de seguro de desemprego por semana
 - percentagem de trabalhadores e empresas afetados pelo covid
