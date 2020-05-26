@@ -3,7 +3,9 @@
 
 ###### Maps: Impacto da doença no US
 -Casos confirmados por estado
+
 -Mortes por estado
+
 -Recuparados
 
 ###### Stats: Impacto na economia nos US
