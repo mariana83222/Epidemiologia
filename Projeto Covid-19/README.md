@@ -27,7 +27,7 @@
 - Número de casos por etnia
 - Número de mortos por etnia
 
-- Impacto no mundo
+-Impacto no mundo
  - Evolução do nº casos confirmados ao longo do tempo
  - Impacto na educação
 
