@@ -6,12 +6,23 @@
 
 -Mortes por estado
 
--Recuparados
+-Desempregados devido a covid por estado
 
-###### Stats: Impacto na economia nos US
-- taxa de desemprego por indústria
-- pedidos de seguro de desemprego por semana
-- percentagem de trabalhadores e empresas afetados pelo covid
+###### Stats: Caso de estudo: Connecticut
+
+-Número de confirmados por countie
+-Número de mortos por countie
+- Número de hospitalizados por countie
+- Top 4 counties com mais casos confirmados
+- Top 4 counties com mais mortos
+- Top 4 counties com mais casos hospitalizados
+- Comparação de casos e mortes por género
+-Número de casos por grupo de idade
+-Número de mortos por grupo de idade
+-Número de casos por etnia
+-Número de mortos por etnia
+
+
 
 
 ## Datasets
