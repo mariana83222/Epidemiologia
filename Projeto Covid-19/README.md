@@ -10,7 +10,7 @@
 
 ###### Stats: 
 -Impacto nos EUA
- - Comparação de empregados e desempregados
+ - Comparação do nº empregados e desempregados atualmente
  - Evolução do número de mortes ao longo do tempo
  
 -Caso de estudo: Connecticut
@@ -26,6 +26,10 @@
 - Número de mortos por grupo de idade
 - Número de casos por etnia
 - Número de mortos por etnia
+
+- Impacto no mundo
+ - Evolução do nº casos confirmados ao longo do tempo
+ - Impacto na educação
 
 
 
