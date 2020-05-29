@@ -1,7 +1,7 @@
 # Projeto Covid-19
 ## Objetivos:
 
-###### Maps: Impacto da doença no US
+###### Maps: Impacto da doença nos EUA
 - Casos confirmados por estado
 
 - Mortos por estado
@@ -9,6 +9,10 @@
 - Desempregados devido ao covid por estado
 
 ###### Stats: 
+-Impacto nos EUA
+ - Comparação de empregados e desempregados
+ - Evolução do número de mortes ao longo do tempo
+ 
 -Caso de estudo: Connecticut
 
 - Número de confirmados por countie
