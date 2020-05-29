@@ -4,11 +4,12 @@
 ###### Maps: Impacto da doença no US
 - Casos confirmados por estado
 
-- Mortes por estado
+- Mortos por estado
 
-- Desempregados devido a covid por estado
+- Desempregados devido ao covid por estado
 
-###### Stats: Caso de estudo: Connecticut
+###### Stats: 
+-Caso de estudo: Connecticut
 
 - Número de confirmados por countie
 - Número de mortos por countie
