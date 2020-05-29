@@ -2,25 +2,25 @@
 ## Objetivos:
 
 ###### Maps: Impacto da doença no US
--Casos confirmados por estado
+- Casos confirmados por estado
 
--Mortes por estado
+- Mortes por estado
 
--Desempregados devido a covid por estado
+- Desempregados devido a covid por estado
 
 ###### Stats: Caso de estudo: Connecticut
 
--Número de confirmados por countie
--Número de mortos por countie
+- Número de confirmados por countie
+- Número de mortos por countie
 - Número de hospitalizados por countie
 - Top 4 counties com mais casos confirmados
 - Top 4 counties com mais mortos
 - Top 4 counties com mais casos hospitalizados
 - Comparação de casos e mortes por género
--Número de casos por grupo de idade
--Número de mortos por grupo de idade
--Número de casos por etnia
--Número de mortos por etnia
+- Número de casos por grupo de idade
+- Número de mortos por grupo de idade
+- Número de casos por etnia
+- Número de mortos por etnia
 
 
 
