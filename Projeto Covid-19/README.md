@@ -40,6 +40,12 @@ Dados relativos ao nº de casos e mortes nos US: https://github.com/nytimes/covi
 
 Dados utilizados para a construção do mapa dos US: https://www.arcgis.com/home/item.html?id=f7f805eb65eb4ab787a0a3e1116ca7e5
 
+## Impacto nos EUA
+
+### Mapa com graduação de cores (casos confirmados e mortos)
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/cases_us.png" width="400">
+ <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/deaths_us.png" width="400">
+
 ## Caso de estudo: Connecticut
 
 ### Distribuição casos, mortos e hospitalizados
