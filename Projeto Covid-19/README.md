@@ -1,14 +1,14 @@
 # Projeto Covid-19
 ## Objetivos:
 
-###### Maps: Impacto da doença nos EUA
+### Maps:
 - Casos confirmados por estado
 
 - Mortos por estado
 
 - Desempregados devido ao covid por estado
 
-###### Stats: 
+### Stats: 
 Impacto nos EUA
  - Comparação do nº empregados e desempregados atualmente
  - Evolução do número de mortes ao longo do tempo
@@ -42,10 +42,12 @@ Dados utilizados para a construção do mapa dos US: https://www.arcgis.com/home
 
 ## Caso de estudo: Connecticut
 
-### cenas
+### Distribuição casos, mortos e hospitalizados
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmados.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortos.jpg" width="400">
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/hospitalizados.jpg" width="400">
-<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmados.jpg" width="400">
+
+### Top 4 (casos, mortos e hospitalizados)
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmadospie.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortospie.jpg" width="400">
 
 
