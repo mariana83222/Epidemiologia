@@ -49,5 +49,6 @@ Dados utilizados para a construção do mapa dos US: https://www.arcgis.com/home
 
 ### Top 4 (casos, mortos e hospitalizados)
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmadospie.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortospie.jpg" width="400">
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/hospitalizadospie.jpg" width="400">
 
 
