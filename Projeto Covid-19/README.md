@@ -46,6 +46,14 @@ Dados utilizados para a construção do mapa dos US: https://www.arcgis.com/home
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/cases_us.png" width="500">
  <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/deaths_us.png" width="500">
 
+### Comparação do nº de casos e mortes por estado
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaocasos.png" width="500">
+ <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaomortos.png" width="500">
+ 
+### Distribuição do nº de desempregados por estado
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/empregadoslog.png" width="500">
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/desempregadoslog.png" width="500">
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/empregadosvsdesempregados.png" width="500">
 ## Caso de estudo: Connecticut
 
 ### Distribuição casos, mortos e hospitalizados
