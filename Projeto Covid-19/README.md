@@ -16,8 +16,6 @@
 -Caso de estudo: Connecticut
 
 - Número de confirmados por countie
-<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmados.jpg" width="500">
-
 - Número de mortos por countie
 - Número de hospitalizados por countie
 - Top 4 counties com mais casos confirmados
@@ -41,5 +39,9 @@
 Dados relativos ao nº de casos e mortes nos US: https://github.com/nytimes/covid-19-data
 
 Dados utilizados para a construção do mapa dos US: https://www.arcgis.com/home/item.html?id=f7f805eb65eb4ab787a0a3e1116ca7e5
+
+## Caso de estudo: Connecticut
+
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmados.jpg" width="500">
 
 
