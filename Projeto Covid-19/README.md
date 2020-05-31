@@ -54,4 +54,8 @@ Dados utilizados para a construção do mapa dos US: https://www.arcgis.com/home
 ### Distribuição do nº de casos e mortes por género
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/malevsfemale.jpg" width="400"> 
 
+### Distribuição do nº de casos e mortes por grupos etários
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosage.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesage.jpg" width="400"> 
+ 
+
 
