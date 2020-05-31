@@ -3,15 +3,16 @@
 
 ### Maps:
 - Casos confirmados por estado
-
 - Mortos por estado
 
-- Desempregados devido ao covid por estado
+
 
 ### Stats: 
 ##### Impacto nos EUA
- - Comparação do nº empregados e desempregados atualmente
- - Evolução do número de mortes ao longo do tempo
+ - Distribuição do número de empregados e desempregados (por estado)
+ - Empregados VS Desempregados
+ - Evolução do número de casos ao longo do tempo nos estados mais afetados
+ - Evolução do número de mortes ao longo do tempo nos estados mais afetados
  
 ##### Caso de estudo: Connecticut
 
