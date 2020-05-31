@@ -16,7 +16,7 @@
 -Caso de estudo: Connecticut
 
 - Número de confirmados por countie
-![Alt Text](https://github.com/[mariana83222]/[Epidemiologia]/blob/[branch]/Figuras/confirmados.jpg?raw=true)
+![alt text](https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmados.jpg)
 - Número de mortos por countie
 - Número de hospitalizados por countie
 - Top 4 counties com mais casos confirmados
