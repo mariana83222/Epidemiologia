@@ -9,11 +9,11 @@
 - Desempregados devido ao covid por estado
 
 ### Stats: 
-Impacto nos EUA
+##### Impacto nos EUA
  - Comparação do nº empregados e desempregados atualmente
  - Evolução do número de mortes ao longo do tempo
  
-Caso de estudo: Connecticut
+##### Caso de estudo: Connecticut
 
 - Número de confirmados por countie
 - Número de mortos por countie
@@ -27,7 +27,7 @@ Caso de estudo: Connecticut
 - Número de casos por etnia
 - Número de mortos por etnia
 
-Impacto no mundo
+##### Impacto no mundo
  - Evolução do nº casos confirmados ao longo do tempo
  - Impacto na educação
 
@@ -50,5 +50,8 @@ Dados utilizados para a construção do mapa dos US: https://www.arcgis.com/home
 ### Top 4 (casos, mortos e hospitalizados)
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmadospie.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortospie.jpg" width="400">
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/hospitalizadospie.jpg" width="400">
+
+### Distribuição do nº de casos e mortes por género
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/malevsfemale.jpg" width="400"> 
 
 
