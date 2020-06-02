@@ -58,8 +58,9 @@ Na presente secção encontram-se apresentados dois mapas dos EUA, com graduaç�
 
 Nesta secção encontram-se apresentados dois gráficos que permitem observar a evolução do número de casos confirmados para os cinco estados com mais casos confirmados e a evolução do número de mortos ao longo do tempo nos cinco estados com mais mortos.
 
-<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaocasosstate%20(1).jpg" width="500">
- <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaomortosstate%20(1).jpg" width="500">
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaocasosstate%20(1).jpg" width="5
+600">
+ <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaomortosstate%20(1).jpg" width="600">
  
 ### Distribuição do nº de empregados por estado
 
@@ -79,10 +80,10 @@ O gráfico apresentado nesta secção realiza uma comparação entre o número d
 
 ### Evolução do número de casos
 
-<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casoscon.jpg" width="400">
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casoscon.jpg" width="500">
 
 ### Evolução do número de mortos
-<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortoscon.jpg" width="400">
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortoscon.jpg" width="500">
 
 ### Distribuição casos, mortos e hospitalizados
 
