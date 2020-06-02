@@ -34,6 +34,8 @@ Os Estados Unidos da América são um dos países com mais casos confirmados de 
 - Número de mortos por grupo de idade
 - Número de casos por etnia
 - Número de mortos por etnia
+- Modelos de previsão
+
 
 ## Datasets - Origem dos dados
 
@@ -113,4 +115,11 @@ Nesta secção é possível observar a distribuição do número de casos confir
 Nesta secção é possível observar a distribuição do número de casos confirmados e de mortos para cada etnia/raça.
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosetnia.jpg" width="400"><img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesetnia.jpg" width="400"> 
+
+### Modelos de Previsão
+
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/previsaocasos.jpg" width="500"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/previsaomortos.jpg" width="500">
+
+## Autores
+Mariana Gomes, A83222, MIEBIOM - Informática Médica 2019/2020
 
