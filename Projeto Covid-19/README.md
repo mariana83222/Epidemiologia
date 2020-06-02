@@ -101,13 +101,18 @@ Nesta secção encontram-se apresentados três gráficos, sendo que cada um repr
 
 ### Distribuição do nº de casos e mortes por género
 Na presente secção encontra-se um gráfico que permite comparar o número de casos e o número de mortos entre o género feminino e o género masculino.
+
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/malevsfemale.jpg" width="400"> 
 
 ### Distribuição do nº de casos e mortes por grupos etários
 Nesta secção é possível observar a distribuição do número de casos confirmados e de mortos para cada grupo de idades.
-<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosage.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesage.jpg" width="400"> 
+
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosage.jpg" width="400">
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesage.jpg" width="400"> 
  
 ### Distribuição do nº de casos e mortes por etnia
 Nesta secção é possível observar a distribuição do número de casos confirmados e de mortos para cada etnia/raça.
-<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosetnia.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesetnia.jpg" width="400"> 
+
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosetnia.jpg" width="400"> 
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesetnia.jpg" width="400"> 
 
