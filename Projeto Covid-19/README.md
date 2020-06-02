@@ -65,15 +65,18 @@ Nesta secção encontram-se apresentados dois gráficos que permitem observar a 
 ### Distribuição do nº de empregados por estado
 
 Nesta secção é possível observar a distribuição do número de empregados em relação a cada um dos estados dos EUA no mês de Maio.
+
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/empregadoslog.jpg" width="500">
 
 ### Distribuição do nº de desempregados por estado
 Nesta secção é possível observar a distribuição do número de desempregados em relação a cada um dos estados dos EUA no mês de Maio.
+
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/desempregadoslog.jpg" width="500">
 
 ### Comparação do nº de empregados e desempregados por estado
 
 O gráfico apresentado nesta secção realiza uma comparação entre o número de desempregados e o número de empregados nos EUA no mês de Maio.
+
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/empregadosvsdesempregados.jpg" width="500">
 
 ## Caso de estudo: Connecticut
