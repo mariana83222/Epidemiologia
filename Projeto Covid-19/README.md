@@ -118,6 +118,8 @@ Nesta secção é possível observar a distribuição do número de casos confir
 
 ### Modelos de Previsão
 
+Nesta secção encontram-se apresentados dois modelos de previsão baseados em modelos de Machine Learning, um para o número de casos e outro para o número de mortos. Estes modelos foram construídos a partir do algoritmo Decision Tree.
+
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/previsaocasos.jpg" width="500"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/previsaomortos.jpg" width="500">
 
 ## Autores
