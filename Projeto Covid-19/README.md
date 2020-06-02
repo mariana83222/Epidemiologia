@@ -54,22 +54,31 @@ Na presente secção encontram-se apresentados dois mapas dos EUA, com graduaç�
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/cases_us.png" width="500">
  <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/deaths_us.png" width="500">
 
-### Comparação do nº de casos e mortes por estado
-<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaocasosstate.jpg" width="500">
- <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaomortosstate.jpg" width="500">
+### Evolução do nº de casos e de mortos nos 5 estados mais afetados
+
+Nesta secção encontram-se apresentados dois gráficos que permitem observar a evolução do número de casos confirmados para os cinco estados com mais casos confirmados e a evolução do número de mortos ao longo do tempo nos cinco estados com mais mortos.
+
+<img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaocasosstate%20(1).jpg" width="500">
+ <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaomortosstate%20(1).jpg" width="500">
  
 ### Distribuição do nº de empregados por estado
+
+Nesta secção é possível observar a distribuição do número de empregados em relação a cada um dos estados dos EUA no mês de Maio.
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/empregadoslog.jpg" width="500">
 
 ### Distribuição do nº de desempregados por estado
+Nesta secção é possível observar a distribuição do número de desempregados em relação a cada um dos estados dos EUA no mês de Maio.
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/desempregadoslog.jpg" width="500">
 
 ### Comparação do nº de empregados e desempregados por estado
+
+O gráfico apresentado nesta secção realiza uma comparação entre o número de desempregados e o número de empregados nos EUA no mês de Maio.
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/empregadosvsdesempregados.jpg" width="500">
 
 ## Caso de estudo: Connecticut
 
 ### Evolução do número de casos
+
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casoscon.jpg" width="400">
 
 ### Evolução do número de mortos
@@ -81,15 +90,20 @@ Na presente secção encontram-se apresentados dois mapas dos EUA, com graduaç�
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/hospitalizados.jpg" width="400">
 
 ### Top 4 (casos, mortos e hospitalizados)
+Nesta secção encontram-se apresentados três gráficos, sendo que cada um represente o top 4 de counties com maior número de casos, maior número de mortos e maior número de hospitalizados, respetivamente.
+
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmadospie.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortospie.jpg" width="400">
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/hospitalizadospie.jpg" width="400">
 
 ### Distribuição do nº de casos e mortes por género
+Na presente secção encontra-se um gráfico que permite comparar o número de casos e o número de mortos entre o género feminino e o género masculino.
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/malevsfemale.jpg" width="400"> 
 
 ### Distribuição do nº de casos e mortes por grupos etários
+Nesta secção é possível observar a distribuição do número de casos confirmados e de mortos para cada grupo de idades.
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosage.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesage.jpg" width="400"> 
  
 ### Distribuição do nº de casos e mortes por etnia
+Nesta secção é possível observar a distribuição do número de casos confirmados e de mortos para cada etnia/raça.
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosetnia.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesetnia.jpg" width="400"> 
 
