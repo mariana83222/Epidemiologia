@@ -1,0 +1,9 @@
+hisp_race,total_pop,case_tot,caserate100k,ageadjustedcaserate100k,deaths,deathrate100k,ageadjusteddeathrate100k,DateUpdated
+Hispanic,589809,7359,1248,1418,332,56,105,05/27/2020
+NH American Indian or Alaskan Native,9566,40,418,445,2,21,,05/27/2020
+NH Asian or Pacific Islander,177966,599,337,343,37,21,31,05/27/2020
+NH Black,387134,5285,1365,1372,566,146,169,05/27/2020
+NH Multiracial,,97,,,24,,,05/27/2020
+NH Other,,223,,,13,,,05/27/2020
+NH White,2408190,14059,584,443,2791,116,63,05/27/2020
+Unknown,,13897,,,61,,,05/27/2020

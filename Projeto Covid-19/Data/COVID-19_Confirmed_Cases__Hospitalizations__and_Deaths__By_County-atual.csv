@@ -1,0 +1,9 @@
+Cnty_cod,County,DateUpdated,ConfirmedCases,CaseRates,HospitalizedCases,Deaths
+1,Fairfield,05/27/2020,15353,1627,211,1246
+2,Hartford,05/27/2020,10078,1129,158,1208
+3,Litchfield,05/27/2020,1366,754,8,128
+4,Middlesex,05/27/2020,1082,665,24,144
+5,New Haven,05/27/2020,11198,1306,232,946
+6,New London,05/27/2020,1067,400,12,83
+7,Tolland,05/27/2020,822,545,2,57
+8,Windham,05/27/2020,375,320,1,14
