@@ -1,127 +1,136 @@
-# Projeto Covid-19
+# Project Covid-19
 
-O presente trabalho foi realizado âmbito da Unidade Curricular de Sistemas de Informação Geográfica, tendo como objetivo principal a análise da situação pandémica COVID-19 vivida atualmente. Foi desenvolvido um estudo da distribuição e evolução dos dados da pandemia relativos aos Estados Unidos da América (EUA), recorrendo ao Jupyter Notebook e a diversas bibliotecas.
+The present project was performed in the Sistemas de Informação Geográfica (**SIG**) course and its main objective was the analysis of the COVID-19 pandemic situation. A study of the distribution and evolution of the pandemic data relative to the United States of America (USA) was developed.
 
-## Motivação
+## Languages and Tools
 
-Os Estados Unidos da América são um dos países com mais casos confirmados de COVID-19 e mais afetados pela pandemia. O impacto do COVID-19 no país em questão fez-se sentir principalmente ao nível do número de mortos, paralisação de setores económicos e aumento substancial da taxa de desemprego. Nesse sentido, encontram-se apresentados diveros mapas e gráficos que permitem compreender a forma como o vírus evoluiu ao longo do tempo nos EUA, tendo para além disso sido utilizado um dos estados como caso de estudo: Connecticut. De notar que alguns dos dados apresentados já se encontram desatualizados devido ao avanço diário da pandemia.
+* Python 
+* Python libraries (numpy, pandas, scikit-learn)
+* Jupyter Notebook
 
-## Objetivos:
+
+## Motivation
+
+The USA is one of the countries with the most confirmed cases of COVID-19 and one of the most affected by the pandemic. The impact of COVID-19 in the country in question has been felt mainly in terms of the number of deaths, paralysis of economic sectors, and a substantial increase in the unemployment rate. In this sense, here are presented several maps and graphs that allow us to understand how the virus evolved over time in the US. In addition, one of the states was used as a case study: Connecticut. Note that some of the data presented is already outdated due to the daily advance of the pandemic.
+
+## Objectives:
 
 ### Maps:
-- Casos confirmados por estado
-- Mortos por estado
+- Cases confirmed by state 
+- Death by state
 
 ### Stats: 
-##### Impacto nos EUA
- - Distribuição do número de empregados e desempregados (por estado)
- - Empregados VS Desempregados
- - Evolução do número de casos ao longo do tempo nos estados mais afetados
- - Evolução do número de mortes ao longo do tempo nos estados mais afetados
+##### Impact on USA
+ - Distribution of the number of employed and unemployed people (per state) 
+ - Employed VS Unemployed
+ - Evolution of the number of cases over time in the most affected states
+ - Evolution of the number of deaths over time in the most affected states
  
-##### Caso de estudo: Connecticut
+##### Case of study: Connecticut
 
-- Evolução do número de casos ao longo do tempo
-- Evolução do número de mortos ao longo do tempo
-- Número de confirmados por countie
-- Número de mortos por countie
-- Número de hospitalizados por countie
-- Top 4 counties com mais casos confirmados
-- Top 4 counties com mais mortos
-- Top 4 counties com mais casos hospitalizados
-- Comparação de casos e mortes por género
-- Número de casos por grupo de idade
-- Número de mortos por grupo de idade
-- Número de casos por etnia
-- Número de mortos por etnia
-- Modelos de previsão
+- Evolution of the number of cases over time
+- Evolution of the number of deaths over time
+- Number of confirmed cases per countie
+- Number of deaths per countie
+- Number of hospitalized cases per countie
+- Top 4 counties with most confirmed cases
+- Top 4 counties with most deaths
+- Top 4 counties with most hospitalized cases
+- Comparisson of cases and deaths by gender
+- Number of cases by age group
+- Number of deaths by age group
+- Number of cases by ethnic group
+- Number of deaths by ethnic group
+- Predictive models (Machine Learning)
 
 
-## Datasets - Origem dos dados
+## Datasets - Origin of the data
 
-Dados relativos ao nº de casos e mortes nos EUA: https://github.com/nytimes/covid-19-data
+Data related to the number of cases and deaths in the US: https://github.com/nytimes/covid-19-data
 
-Dados utilizados para a construção do mapa dos EUA: https://www.arcgis.com/home/item.html?id=f7f805eb65eb4ab787a0a3e1116ca7e5
+Data used in the construction of the USA map: https://www.arcgis.com/home/item.html?id=f7f805eb65eb4ab787a0a3e1116ca7e5
 
-Dados relativos ao desemprego: https://github.com/UrbanInstitute/covid-neighborhood-job-analysis
+Data related to the unemployment: https://github.com/UrbanInstitute/covid-neighborhood-job-analysis
 
-Dados Connecticut: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
+Data from Connecticut: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
 
-## Impacto nos EUA
+## Impact on the USA
 
-### Mapa com graduação de cores (casos confirmados e mortos)
+### Map with color graduation (confirmed cases and deaths)
 
-Na presente secção encontram-se apresentados dois mapas dos EUA, com graduação de cores e a respetiva distribuição do número de casos confirmados (mapa vermelho) e do número de mortos (mapa azul), sendo que quanto mais escura a cor, maior o número que representa.
+In the present section two USA maps are presented, with color gradutation and the respective distribution of number of confirmed cases (red map) and number of deaths (blue map), being that the darker the color, the higher the number it represents.
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/cases_us.png" width="500">
  <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/deaths_us.png" width="500">
 
-### Evolução do nº de casos e de mortos nos 5 estados mais afetados
+### Evolution of the number of cases and deaths in the 5 most affected states
 
-Nesta secção encontram-se apresentados dois gráficos que permitem observar a evolução do número de casos confirmados para os cinco estados com mais casos confirmados e a evolução do número de mortos ao longo do tempo nos cinco estados com mais mortos.
+In this section are presented two graphs that allow us to observe the evolution of the number of confirmed case in the states where most cases are confirmed and also the evolution of the number of deaths over time in the states with most deatths. 
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaocasosstate%20(1).jpg" width="800">
 
  <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/comparacaomortosstate%20(1).jpg" width="800">
  
-### Distribuição do nº de empregados por estado
+### Distribution of the number of employed people by state
 
-Nesta secção é possível observar a distribuição do número de empregados em relação a cada um dos estados dos EUA no mês de Maio.
+In this section it is possible to observe the distribution of the number of employment cases in relation to every state of the USA in May 2020. 
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/empregadoslog.jpg" width="500">
 
-### Distribuição do nº de desempregados por estado
-Nesta secção é possível observar a distribuição do número de desempregados em relação a cada um dos estados dos EUA no mês de Maio.
+### Distribution of the number of unemployed people by state
+
+In this section it is possible to observe the distribution of the number of unemployment cases in relation to every state of the USA in May 2020. 
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/desempregadoslog.jpg" width="500">
 
-### Comparação do nº de empregados e desempregados por estado
+### Comparisson of the number of employment and unemployment cases by state
 
-O gráfico apresentado nesta secção realiza uma comparação entre o número de desempregados e o número de empregados nos EUA no mês de Maio.
+The graphic shows a comparisson between the number of employed and unemployed in the USA in May.
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/empregadosvsdesempregados.jpg" width="500">
 
-## Caso de estudo: Connecticut
+## Case of study: Connecticut
 
-### Evolução do número de casos
+### Evolution of the number of cases
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casoscon.jpg" width="500">
 
-### Evolução do número de mortos
+### Evolution of the number of deaths
+
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortoscon.jpg" width="500">
 
-### Distribuição casos, mortos e hospitalizados
+### Distribution of cases, deaths and hospitalized
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmados.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortos.jpg" width="400">
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/hospitalizados.jpg" width="400">
 
-### Top 4 (casos, mortos e hospitalizados)
-Nesta secção encontram-se apresentados três gráficos, sendo que cada um represente o top 4 de counties com maior número de casos, maior número de mortos e maior número de hospitalizados, respetivamente.
+### Top 4 (cases, deaths and hospitalized)
+This section presents three graphics, where each of them represents the top 4 counties with the most cases, most deaths, and most hospitalizations, respectively. 
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/confirmadospie.jpg" width="400"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortospie.jpg" width="400">
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/hospitalizadospie.jpg" width="400">
 
-### Distribuição do nº de casos e mortes por género
-Na presente secção encontra-se um gráfico que permite comparar o número de casos e o número de mortos entre o género feminino e o género masculino.
+### Distribution of the number of cases and deaths by gender
+This section presents a graphic that allows the comparisson between the number of cases and deaths between the female and male genders.
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/malevsfemale.jpg" width="400"> 
 
-### Distribuição do nº de casos e mortes por grupos etários
-Nesta secção é possível observar a distribuição do número de casos confirmados e de mortos para cada grupo de idades.
+### Distribution of the number of cases and deaths by age group
+This section presents the distribution of the number of confirmed cases and deaths for each age group.
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosage.jpg" width="400"><img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesage.jpg" width="400"> 
  
-### Distribuição do nº de casos e mortes por etnia
-Nesta secção é possível observar a distribuição do número de casos confirmados e de mortos para cada etnia/raça.
+### Distribution of the number of cases and deaths by ethnic group
+This section presents the distribution of the number of confirmed cases and deaths for each ethnic group.
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/casosetnia.jpg" width="400"><img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/mortesetnia.jpg" width="400"> 
 
-### Modelos de Previsão
+### Predictive models 
 
-Nesta secção encontram-se apresentados dois modelos de previsão baseados em modelos de Machine Learning, um para o número de casos e outro para o número de mortos. Estes modelos foram construídos a partir do algoritmo Decision Tree.
+This section presents two predictive models based on Machine Learning models: one regarding the number of cases and the other regarding the number of deaths. These models were built from the Decision Tree algorithm.
 
 <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/previsaocasos.jpg" width="500"> <img src="https://github.com/mariana83222/Epidemiologia/blob/master/Projeto%20Covid-19/Figuras/previsaomortos.jpg" width="500">
 
-## Autores
+## Author
 Mariana Gomes, A83222, MIEBIOM - Informática Médica 2019/2020
 
