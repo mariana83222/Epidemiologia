@@ -1,6 +1,7 @@
-# Epidemiologia- SIG 2019/2020:
+# Epidemiology- Sistemas de Informação Geográfica (SIG) 2019/2020:
 
--Exercícios de Jupyter com dados do Covid
+This repository contains projects developed in Sistemas Inteligentes (**SI**), a 4th year course in the Master in Biomedical Engineerin @ UMinho.
 
--Projeto Covid-19
 
+## Authors
+- Mariana Gomes
